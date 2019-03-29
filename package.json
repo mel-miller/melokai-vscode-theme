@@ -1,21 +1,22 @@
 {
-    "name": "melokai",
-    "displayName": "Melokai",
-    "description": "A neutral gray and bright accent theme based on Monokai Pro",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.32.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Melokai",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Melokai-color-theme.json"
-            }
-        ]
-    }
+  "name": "melokai",
+  "displayName": "Melokai",
+  "description": "A neutral gray and bright accent theme based on Monokai Pro",
+  "publisher": "miller2676",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.32.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Melokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Melokai-color-theme.json"
+      }
+    ]
+  }
 }
