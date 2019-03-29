@@ -4,6 +4,10 @@
   "description": "A neutral gray and bright accent theme based on Monokai Pro",
   "publisher": "miller2676",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mel-miller/melokai-vscode-theme"
+  },
   "engines": {
     "vscode": "^1.32.0"
   },
