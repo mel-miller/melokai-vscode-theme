@@ -8,6 +8,19 @@
     "type": "git",
     "url": "https://github.com/mel-miller/melokai-vscode-theme"
   },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Neutral Gray"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#303030",
+    "theme": "dark"
+  },
+  "icon": "img/melokai-icon.png",
   "engines": {
     "vscode": "^1.32.0"
   },
